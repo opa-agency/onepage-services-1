@@ -7,12 +7,11 @@
     <Container>
       <div class="mx-auto max-w-2xl md:text-center">
         <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-          Loved by businesses worldwide.
+          Iubit de întreprinderi din toată lumea.
         </h2>
         <p class="mt-4 text-lg tracking-tight text-slate-700">
-          Our software is so simple that people can't help but fall in love
-          with it. Simplicity is easy when you just skip tons of
-          mission-critical features.
+          Softul nostru e atât de simplu încât oamenii pur și simplu nu pot să nu-l iubească.
+          Simplitatea e ușoară când omiti tone de caracteristici critice pentru misiune.
         </p>
       </div>
       <ul
@@ -69,7 +68,7 @@ const testimonials = [
   [
     {
       content:
-        'TaxPal is so easy to use I can\'t help but wonder if it\'s really doing the things the government expects me to do.',
+        'TaxPal este atât de ușor de utilizat, nu pot să nu mă întreb dacă face cu adevărat lucrurile pe care guvernul se așteaptă să le fac.',
       author: {
         name: 'Sheryl Berge',
         role: 'CEO at Lynch LLC',
@@ -78,7 +77,7 @@ const testimonials = [
     },
     {
       content:
-        'I\'m trying to get a hold of someone in support, I\'m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.',
+        'Încerc să mă conectez cu cineva din suport, sunt într-o situație dificilă acum și ei spun că ar avea legătură cu cărțile mele. Te rog să mă contactezi imediat.',
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',
@@ -89,7 +88,7 @@ const testimonials = [
   [
     {
       content:
-        'The best part about TaxPal is every time I pay my employees, my bank balance doesn\'t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.',
+        'Cea mai bună parte despre TaxPal este că de fiecare dată când plătesc angajații, soldul meu bancar nu scade cum obișnuia. Aștept cu nerăbdare să cheltuiesc banii acestia când voi afla de ce cartela mea este respingă.',
       author: {
         name: 'Leland Kiehn',
         role: 'Founder of Kiehn and Sons',
@@ -98,7 +97,7 @@ const testimonials = [
     },
     {
       content:
-        'There are so many things I had to do with my old software that I just don\'t do at all with TaxPal. Suspicious but I can\'t say I don\'t love it.',
+        'Sunt atâtea lucruri pe care trebuia să le fac cu vechiul meu software pe care pur și simplu nu le fac cu TaxPal. Suspect, dar nu pot spune că nu-mi place.',
       author: {
         name: 'Erin Powlowski',
         role: 'COO at Armstrong Inc',
@@ -109,7 +108,7 @@ const testimonials = [
   [
     {
       content:
-        'I used to have to remit tax to the EU and with TaxPal I somehow don\'t have to do that anymore. Nervous to travel there now though.',
+        'Trebuia să trimit impozite către UE și cu TaxPal cumva nu mai trebuie să fac asta. Nervos să călătoresc acolo acum.',
       author: {
         name: 'Peter Renolds',
         role: 'Founder of West Inc',
@@ -118,7 +117,7 @@ const testimonials = [
     },
     {
       content:
-        'This is the fourth email I\'ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.',
+        'Acesta este al patrulea email pe care l-am trimis echipei dvs. de suport. Sunt literal închis în închisoare pentru fraude fiscale. Vă rog, răspundeți la emails-urile dvs., aceasta este important.',
       author: {
         name: 'Amy Hahn',
         role: 'Director at Velocity Industries',

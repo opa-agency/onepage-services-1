@@ -14,11 +14,11 @@
     <Container class="relative">
       <div class="max-w-2xl md:mx-auto md:text-center xl:max-w-none">
         <h2 class="font-display text-3xl tracking-tight text-white sm:text-4xl md:text-5xl">
-          Everything you need to run your books.
+          Tot ce ai nevoie pentru a-ți gestiona cărțile contabile.
         </h2>
         <p class="mt-6 text-lg tracking-tight text-blue-100">
-          Well everything you need if you aren't that picky about minor
-          details like tax compliance.
+          Ei bine, totul ce ai nevoie dacă nu ești prea preocupat de detalii
+          minore, cum ar fi conformitatea cu legea fiscală.
         </p>
       </div>
       <div class="mt-16 grid grid-cols-1 items-center gap-y-2 pt-10 sm:gap-y-6 md:mt-20 lg:grid-cols-12 lg:pt-0">
@@ -92,27 +92,27 @@ const selectedIndex = ref(0)
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Salarizare',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "Urmărește salariile și dacă au fost plătite. Transferul direct nu este suportat.",
     image: '/images/screenshots/payroll.png',
   },
   {
-    title: 'Claim expenses',
+    title: 'Cheltuieli',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Toate chitanțele organizate într-un singur loc, atâta timp cât nu te deranjează să le introduci manual.",
     image: '/images/screenshots/expenses.png',
   },
   {
-    title: 'VAT handling',
+    title: 'Gestionare TVA',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "Vândem software doar companiilor care nu se ocupă cu TVA deloc, deci din punct de vedere tehnic facem tot TVA-ul de care au nevoie.",
     image: '/images/screenshots/vat-returns.png',
   },
   {
-    title: 'Reporting',
+    title: 'Rapoarte',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      'Exportă ușor datele într-o foaie de calcul Excel unde poți face orice doriți cu ea.',
     image: '/images/screenshots/reporting.png',
   },
 ]

@@ -17,11 +17,11 @@
           id="faq-title"
           class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl"
         >
-          Frequently asked questions
+          Întrebări frecvente
         </h2>
         <p class="mt-4 text-lg tracking-tight text-slate-700">
-          If you can't find what you're looking for, email our support team
-          and if you're lucky someone will get back to you.
+          Dacă nu poți găsi ceea ce cauți, trimite un e-mail echipei noastre de suport
+          și dacă ai noroc cineva ți va răspunde.
         </p>
       </div>
       <ul
@@ -49,53 +49,53 @@ import Container from './Container.vue'
 const faqs = [
   [
     {
-      question: 'Does TaxPal handle VAT?',
+      question: 'TaxPal gestionează TVA?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'Ei bine nu, dar dacă muti compania la bilanță ai putea s-o ignori.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'Pot să plătesc abonamentul prin comandă de cumparare?',
+      answer: 'Absolut, suntem fericiți să-ți luăm banii în toate formele.',
     },
     {
-      question: 'How do I apply for a job at TaxPal?',
+      question: 'Cum mă candideaz pentru un loc de muncă la TaxPal?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let\'s talk.',
+        'Nă anglobăm doar clienții noștri, așa că abonează-te minim 6 luni și apoi să vorbim.',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'Ce era marturisșca aia despre frauda fiscală?',
       answer:
-        'TaxPal is just a software application, ultimately your books are your responsibility.',
+        'TaxPal este doar o aplicație software, în final cărțile tale sunt responsabilitatea ta.',
     },
     {
       question:
-        'TaxPal sounds horrible but why do I still feel compelled to purchase?',
+        'TaxPal suneț în spus dar de ce mă simt împins să cumpar?',
       answer:
-        'This is the power of excellent visual design. You just can\'t resist it, no matter how poorly it actually functions.',
+        'Aceasta este puterea designului vizual excelent. Nu poți rezista, indiferent cât de rău funcționează de fapt.',
     },
     {
       question:
-        'I found other companies called TaxPal, are you sure you can use this name?',
+        'Am găsit alte companii numite TaxPal, ești sigur că poți folosi acest nume?',
       answer:
-        'Honestly not sure at all. We haven\'t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'Sincer, deloc sigur. De fapt nici nu am încorporat nimic, am doar crezut că suneț bine și am făcut acest site.',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: 'Cum generați rapoarte?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
+        'Spui-ne doar ce date ții trebuie un raport și lăsăm copiii noștri să creeze grafice frumoase pentru tine folosind doar creioane de cea mai bună calitate.',
     },
     {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it\'s really better to never expect anything at all.',
+      question: 'Ne putem aștepta mai multă functionă de inventar?',
+      answer: 'În viață e mai bine să nu te aștepți niciodată la nimic.',
     },
     {
-      question: 'I lost my password, how do I get into my account?',
+      question: 'Și-am pierdut parola, cum intru în cont?',
       answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        'Trimite-ne un e-mail și-ți vom trimite o copie a celui mai recent foaie de calcul cu parolele noastre așa că poți găsi informațiile tale.',
     },
   ],
 ]

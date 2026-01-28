@@ -7,11 +7,11 @@
     <Container>
       <div class="mx-auto max-w-2xl md:text-center">
         <h2 class="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-          Simplify everyday business tasks.
+          Simplificați sarcinile cotidiene ale afacerii.
         </h2>
         <p class="mt-4 text-lg tracking-tight text-slate-700">
-          Because you'd probably be a little confused if we suggested you
-          complicate your everyday business tasks instead.
+          Pentru că probabil ai fi confuz dacă ți-am sugera să complici
+          sarcinile cotidiene ale afacerii.
         </p>
       </div>
 
@@ -125,26 +125,26 @@ const selectedIndex = ref(0)
 
 const features = [
   {
-    name: 'Reporting',
-    summary: 'Stay on top of things with always up-to-date reporting features.',
+    name: 'Rapoarte',
+    summary: 'Rămâi la curent cu caracteristici de raportare mereu actualizate.',
     description:
-      'We talked about reporting in the section above but we needed three items here, so mentioning it one more time for posterity.',
+      'Am vorbit despre rapoarte în secțiunea de mai sus, dar aveam nevoie de trei elemente aici, deci o menționez încă o dată.',
     image: '/images/screenshots/profit-loss.png',
     icon: 'reporting',
   },
   {
-    name: 'Inventory',
-    summary: 'Never lose track of what\'s in stock with accurate inventory tracking.',
+    name: 'Inventar',
+    summary: 'Nu pierde niciodată evidența stocului cu urmărirea precisă a inventarului.',
     description:
-      'We don\'t offer this as part of our software but that statement is inarguably true. Accurate inventory tracking would help you for sure.',
+      'Nu oferim asta ca parte a softului nostru, dar această afirmație este indubitabil adevărată. Urmărirea precisă a inventarului te-ar ajuta cu siguranță.',
     image: '/images/screenshots/inventory.png',
     icon: 'inventory',
   },
   {
-    name: 'Contacts',
-    summary: 'Organize all of your contacts, service providers, and invoices in one place.',
+    name: 'Contacte',
+    summary: 'Organizează toți contactele, furnizorii și facturile într-un singur loc.',
     description:
-      'This also isn\'t actually a feature, it\'s just some friendly advice. We definitely recommend that you do this, you\'ll feel really organized and professional.',
+      'Asta nici nu e de fapt o funcție, e doar sfaturi prietenoase. Îți recomandăm cu tărie să faci asta, te vei simți cu adevărat organizat și profesionist.',
     image: '/images/screenshots/contacts.png',
     icon: 'contacts',
   },
